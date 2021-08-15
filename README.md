@@ -5,4 +5,5 @@
   - [二叉树的最近公共先祖](https://github.com/CheneyKwok/algorithm-notes/blob/main/notes/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E5%85%88%E7%A5%96.md)
   - [翻转二叉树](https://github.com/CheneyKwok/algorithm-notes/blob/main/notes/%E7%BF%BB%E8%BD%AC%E4%BA%8C%E5%8F%89%E6%A0%91.md)
   - [二叉树展开为链表](https://github.com/CheneyKwok/algorithm-notes/blob/main/notes/%E4%BA%8C%E5%8F%89%E6%A0%91%E5%B1%95%E5%BC%80%E4%B8%BA%E9%93%BE%E8%A1%A8.md)
+  - [填充二叉树节点的右侧指针](https://github.com/CheneyKwok/algorithm-notes/blob/main/notes/%E5%A1%AB%E5%85%85%E4%BA%8C%E5%8F%89%E6%A0%91%E8%8A%82%E7%82%B9%E7%9A%84%E5%8F%B3%E4%BE%A7%E6%8C%87%E9%92%88.md)
  
