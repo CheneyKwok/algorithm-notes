@@ -10,4 +10,5 @@
   - [从前序与中序遍历序列构造二叉树](https://github.com/CheneyKwok/algorithm-notes/blob/main/notes/%E4%BB%8E%E5%89%8D%E5%BA%8F%E4%B8%8E%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91.md)
   - [从中序与后序遍历序列构造二叉树](https://github.com/CheneyKwok/algorithm-notes/blob/main/notes/%E4%BB%8E%E4%B8%AD%E5%BA%8F%E4%B8%8E%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91.md)
   - [寻找重复子树](https://github.com/CheneyKwok/algorithm-notes/blob/main/notes/%E5%AF%BB%E6%89%BE%E9%87%8D%E5%A4%8D%E5%AD%90%E6%A0%91.md)
+  - [二叉搜索树中第K小的元素](https://github.com/CheneyKwok/algorithm-notes/blob/main/notes/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%AD%E7%AC%ACk%E5%B0%8F%E7%9A%84%E5%85%83%E7%B4%A0.md)
  
