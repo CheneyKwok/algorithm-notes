@@ -4,7 +4,7 @@
 
 [LeetCode: 230. 二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)
 
-![img.png](../pics/二叉搜索树中第K小的元素.png)
+![img.png](../../pics/二叉搜索树中第K小的元素.png)
 
 ### 思路分析
 
