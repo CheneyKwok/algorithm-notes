@@ -12,4 +12,5 @@
   - [寻找重复子树](https://github.com/CheneyKwok/algorithm-notes/blob/main/notes/二叉树/寻找重复子树.md)
   - [二叉搜索树中第K小的元素](https://github.com/CheneyKwok/algorithm-notes/blob/main/notes/二叉树/二叉搜索树中第k小的元素.md)
   - [二叉搜索树转换为累加树](https://github.com/CheneyKwok/algorithm-notes/blob/main/notes/二叉树/二叉搜索树转换为累加树.md)
+  - [验证二叉搜索树](https://github.com/CheneyKwok/algorithm-notes/blob/main/notes/二叉树/验证二叉搜索树.md)
  
