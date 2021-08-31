@@ -14,7 +14,7 @@
 public List<TreeNode> generateTrees
 ```
 
-与题 [不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/) 思路相同，但是要枚举出每一个 BST。
+与题 [不同的二叉搜索树](https://github.com/CheneyKwok/algorithm-notes/blob/main/notes/二叉树/不同的二叉搜索树.md) 思路相同，但是要枚举出每一个 BST。
 
 ## 代码实现
 
