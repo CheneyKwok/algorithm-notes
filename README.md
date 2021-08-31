@@ -18,3 +18,4 @@
   - [二叉搜索树中的插入操作](https://github.com/CheneyKwok/algorithm-notes/blob/main/notes/二叉树/二叉搜索树中的插入操作.md)
   - [删除二叉搜索树中的节点](https://github.com/CheneyKwok/algorithm-notes/blob/main/notes/二叉树/删除二叉搜索树中的节点.md)
   - [不同的二叉搜索树](https://github.com/CheneyKwok/algorithm-notes/blob/main/notes/二叉树/不同的二叉搜索树.md)
+  - [不同的二叉搜索树 II](https://github.com/CheneyKwok/algorithm-notes/blob/main/notes/二叉树/不同的二叉搜索树%20II.md)
