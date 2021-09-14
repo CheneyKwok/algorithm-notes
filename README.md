@@ -23,3 +23,4 @@
   - [二叉树的序列化与反序列化](https://github.com/CheneyKwok/algorithm-notes/blob/main/notes/二叉树/二叉树的序列化与反序列化.md)
 - 链表
   - [合并两个有序链表](https://github.com/CheneyKwok/algorithm-notes/blob/main/notes/链表/合并两个有序链表.md)
+  - [合并K个升序链表](https://github.com/CheneyKwok/algorithm-notes/blob/main/notes/链表/合并K个升序链表.md)
