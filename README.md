@@ -24,3 +24,6 @@
 - 链表
   - [合并两个有序链表](https://github.com/CheneyKwok/algorithm-notes/blob/main/notes/链表/合并两个有序链表.md)
   - [合并K个升序链表](https://github.com/CheneyKwok/algorithm-notes/blob/main/notes/链表/合并K个升序链表.md)
+
+- 排序
+  - [快速排序](https://github.com/CheneyKwok/algorithm-notes/blob/main/notes/排序/快速排序.md)
