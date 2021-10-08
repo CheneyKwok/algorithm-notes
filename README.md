@@ -28,6 +28,7 @@
   - [删除链表的倒数第n个结点](https://github.com/CheneyKwok/algorithm-notes/blob/main/notes/链表/删除链表的倒数第n个结点.md)
   - [链表的中间结点](https://github.com/CheneyKwok/algorithm-notes/blob/main/notes/链表/链表的中间结点.md)
   - [链表中环的入口节点](https://github.com/CheneyKwok/algorithm-notes/blob/main/notes/链表/链表中环的入口节点.md)
+  - [反转链表](https://github.com/CheneyKwok/algorithm-notes/blob/main/notes/链表/反转链表.md)
 
 - 排序
   - [快速排序](https://github.com/CheneyKwok/algorithm-notes/blob/main/notes/排序/快速排序.md)
