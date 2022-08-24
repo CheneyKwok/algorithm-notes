@@ -33,3 +33,7 @@
 - 排序
   - [快速排序](https://github.com/CheneyKwok/algorithm-notes/blob/main/notes/排序/快速排序.md)
   - [冒泡排序](https://github.com/CheneyKwok/algorithm-notes/blob/main/notes/排序/冒泡排序.md)
+  - [选择排序](https://github.com/CheneyKwok/algorithm-notes/blob/main/notes/排序/选择排序.md)
+
+- 查找
+  - [二分查找](https://github.com/CheneyKwok/algorithm-notes/blob/main/notes/查找/二分查找.md)
